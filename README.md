@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RU8IN
 - 👀 I’m interested in Python['Django'], Java/Kotlin, C#
-- 🌱 I’m currently learning Python/Java
+- 🌱 I’m currently learning Python/Kotlin
 - 📫 How to reach me - telegram: @vasslav3
 
 <!---
